@@ -1,0 +1,3 @@
+displayName = Tools For Combat
+author = Antinous
+version = 0.2
